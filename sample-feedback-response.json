@@ -1,0 +1,961 @@
+[
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 5,
+    "Quality_text": "The software was very well-designed and met all of our requirements.",
+    "Overall_text": "The project was delivered on time, but we had some communication issues in the early stages."
+  },
+  {
+    "Quality": 5,
+    "Speed": 5,
+    "Price": 4,
+    "Quality_text": "The software was of excellent quality and exceeded our expectations.",
+    "Overall_text": "The project was delivered quickly and efficiently. The pricing was fair."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "There were a few bugs in the software that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 4,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was well-built and easy to use.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 5,
+    "Speed": 5,
+    "Price": 5,
+    "Quality_text": "The software was excellent and we were very impressed with the quality of the work.",
+    "Overall_text": "The project was delivered on time and within budget. We would definitely recommend this company to others."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered on time and within budget. We were very happy with the results."
+  },
+  {
+    "Quality": 2,
+    "Speed": 1,
+    "Price": 2,
+    "Quality_text": "The software was not very user-friendly and had several technical issues.",
+    "Overall_text": "The project was delayed and the price was too high for the quality of the work."
+  },
+  {
+    "Quality": 4,
+    "Speed": 3,
+    "Price": 4,
+    "Quality_text": "The software was well-designed and met most of our needs.",
+    "Overall_text": "The project was delivered on time, but the communication could have been better."
+  },
+  {
+    "Quality": 3,
+    "Speed": 2,
+    "Price": 3,
+    "Quality_text": "The software had some minor issues that needed to be fixed.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  },
+  {
+    "Quality": 5,
+    "Speed": 4,
+    "Price": 5,
+    "Quality_text": "The software was very well-built and exceeded our expectations.",
+    "Overall_text": "The project was delivered later than expected and the price was a bit high."
+  }
+]
