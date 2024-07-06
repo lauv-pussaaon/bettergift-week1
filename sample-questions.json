@@ -1,0 +1,34 @@
+{
+    "questions": [
+        {
+            "question": "How would you rate the overall quality of the software project delivered?",
+            "type": "scale",
+            "options": [1, 2, 3, 4, 5],
+            "optionLabels": ["Very poor", "Poor", "Neutral", "Good", "Excellent"],
+            "area": "Quality"
+        },
+        {
+            "question": "How satisfied are you with the speed of the project delivery?",
+            "type": "scale",
+            "options": [1, 2, 3, 4, 5],
+            "optionLabels": ["Very dissatisfied", "Dissatisfied", "Neutral", "Satisfied", "Very satisfied"],
+            "area": "Speed"
+        },
+        {
+            "question": "Do you believe the price of the project delivery was fair based on the quality of the work delivered?",
+            "type": "choices",
+            "options": ["Yes", "No", "Not sure"],
+            "area": "Price"
+        },
+        {
+            "question": "Are there any specific areas where you believe the project could have been improved upon?",
+            "type": "text",
+            "area": "Quality"
+        },
+        {
+            "question": "Do you have any other feedback regarding the project delivery that you would like to share?",
+            "type": "text",
+            "area": "All"
+        }
+    ]
+} 

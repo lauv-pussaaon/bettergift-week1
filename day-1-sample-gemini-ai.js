@@ -10,8 +10,8 @@ import {
 import * as dotenv from "dotenv";
 dotenv.config();
 
-const MODEL_NAME = "gemini-1.0-pro";
-const API_KEY = process.env.API_KEY!;
+const MODEL_NAME = "gemini-1.0-flash";
+const API_KEY = process.env.API_KEY;
 
 async function runChat() {
     const genAI = new GoogleGenerativeAI(API_KEY);
@@ -43,7 +43,7 @@ async function runChat() {
         },
     ];
 
-    const chat = model.startChat({
+    const convo = model.startChat({
         generationConfig,
         safetySettings,
         history: [
@@ -66,7 +66,7 @@ async function runChat() {
         ],
     });
 
-    const result = await chat.sendMessage(
+    const result = await convo.sendMessage(
         "Give me 5 questions to gather feedback from customers."
     );
     const response = result.response;
